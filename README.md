@@ -5,7 +5,7 @@
 
 # Core ML Models
 
-## Please find the orignal source code of model [here](https://github.com/DeepScale/SqueezeNet) 
+## Please find the orignal source code of model [here](https://github.com/DeepScale/SqueezeNet)
 
 <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
 
@@ -35,3 +35,8 @@
 |**[Ubuntu 16.04 (TensorFlow with GPU)](https://github.com/apple/swift-community-hosted-continuous-integration/blob/master/nodes/x86_64_ubuntu_16_04_tensorflow_gpu.json)** | x86_64 |[![Build Status](https://ci-external.swift.org/job/oss-swift-RA-linux-ubuntu-16.04-tensorflow-gpu/lastCompletedBuild/badge/icon)](https://ci-external.swift.org/job/oss-swift-RA-linux-ubuntu-16.04-tensorflow-gpu)|
 |**[Debian 9.5](https://github.com/apple/swift-community-hosted-continuous-integration/blob/master/nodes/x86_64_debian_9.5.json)** | x86_64 | [![Build Status](https://ci-external.swift.org/job/oss-swift-RA-linux-debian-9_5/lastCompletedBuild/badge/icon)](https://ci-external.swift.org/job/oss-swift-RA-linux-debian-9_5)|
 |**[Windows 2019](https://github.com/apple/swift-community-hosted-continuous-integration/blob/master/nodes/x86_64_windows_2019.json)** | x86_64 | [![Build Status](https://ci-external.swift.org/job/oss-swift-windows-x86_64/lastCompletedBuild/badge/icon)](https://ci-external.swift.org/job/oss-swift-windows-x86_64)|
+
+![Screenshot 1](https://raw.githubusercontent.com/jusce17/MLDemo101/master/screenshots/2019-06-16%2020.19.45.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/jusce17/MLDemo101/master/screenshots/2019-06-16%2020.20.00.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/jusce17/MLDemo101/master/screenshots/2019-06-16%2020.20.06.jpg)
+![Screenshot 4](https://raw.githubusercontent.com/jusce17/MLDemo101/master/screenshots/2019-06-16%2020.20.10.jpg)
