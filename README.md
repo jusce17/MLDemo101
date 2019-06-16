@@ -1,8 +1,11 @@
-## QUA
+## Demo 101
 
 ## Build a Simple Image Recognition App
 
+
 # Core ML Models
+
+## Please find the orignal source code of model [here](https://github.com/DeepScale/SqueezeNet) 
 
 <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
 
