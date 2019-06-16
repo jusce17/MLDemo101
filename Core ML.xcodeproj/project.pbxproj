@@ -14,6 +14,12 @@
 		E291B22822B6775C00A8B476 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E291B22622B6775C00A8B476 /* LaunchScreen.storyboard */; };
 		E291B23322B6775C00A8B476 /* Core_MLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E291B23222B6775C00A8B476 /* Core_MLTests.swift */; };
 		E291B23E22B6775C00A8B476 /* Core_MLUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E291B23D22B6775C00A8B476 /* Core_MLUITests.swift */; };
+		E291B24C22B68F1800A8B476 /* SqueezeNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = E291B24B22B68F1700A8B476 /* SqueezeNet.mlmodel */; };
+		E291B24D22B68F1800A8B476 /* SqueezeNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = E291B24B22B68F1700A8B476 /* SqueezeNet.mlmodel */; };
+		E291B24E22B68F1800A8B476 /* SqueezeNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = E291B24B22B68F1700A8B476 /* SqueezeNet.mlmodel */; };
+		E291B25022B6B4D600A8B476 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E291B24F22B6B4D600A8B476 /* logo.png */; };
+		E291B25122B6B4D600A8B476 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E291B24F22B6B4D600A8B476 /* logo.png */; };
+		E291B25222B6B4D600A8B476 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E291B24F22B6B4D600A8B476 /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,8 @@
 		E291B23922B6775C00A8B476 /* Core MLUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Core MLUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E291B23D22B6775C00A8B476 /* Core_MLUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Core_MLUITests.swift; sourceTree = "<group>"; };
 		E291B23F22B6775C00A8B476 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E291B24B22B68F1700A8B476 /* SqueezeNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = SqueezeNet.mlmodel; path = ../../../Downloads/SqueezeNet.mlmodel; sourceTree = "<group>"; };
+		E291B24F22B6B4D600A8B476 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = "../../../../Downloads/landing andrometax/images/logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +85,7 @@
 		E291B21122B6775B00A8B476 = {
 			isa = PBXGroup;
 			children = (
+				E291B24B22B68F1700A8B476 /* SqueezeNet.mlmodel */,
 				E291B21C22B6775B00A8B476 /* Core ML */,
 				E291B23122B6775C00A8B476 /* Core MLTests */,
 				E291B23C22B6775C00A8B476 /* Core MLUITests */,
@@ -98,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				E291B21D22B6775B00A8B476 /* AppDelegate.swift */,
+				E291B24F22B6B4D600A8B476 /* logo.png */,
 				E291B21F22B6775B00A8B476 /* ViewController.swift */,
 				E291B22122B6775B00A8B476 /* Main.storyboard */,
 				E291B22422B6775C00A8B476 /* Assets.xcassets */,
@@ -229,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E291B25022B6B4D600A8B476 /* logo.png in Resources */,
 				E291B22822B6775C00A8B476 /* LaunchScreen.storyboard in Resources */,
 				E291B22522B6775C00A8B476 /* Assets.xcassets in Resources */,
 				E291B22322B6775B00A8B476 /* Main.storyboard in Resources */,
@@ -239,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E291B25122B6B4D600A8B476 /* logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +258,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E291B25222B6B4D600A8B476 /* logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E291B22022B6775B00A8B476 /* ViewController.swift in Sources */,
+				E291B24C22B68F1800A8B476 /* SqueezeNet.mlmodel in Sources */,
 				E291B21E22B6775B00A8B476 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -266,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E291B23322B6775C00A8B476 /* Core_MLTests.swift in Sources */,
+				E291B24D22B68F1800A8B476 /* SqueezeNet.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E291B23E22B6775C00A8B476 /* Core_MLUITests.swift in Sources */,
+				E291B24E22B68F1800A8B476 /* SqueezeNet.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
