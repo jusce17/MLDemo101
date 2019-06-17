@@ -1,6 +1,6 @@
 ## Demo 101
 
-## Build a Simple Image Recognition App
+## Build a Simple Image Recognition IOS App
 
 
 # Core ML Models
@@ -9,7 +9,9 @@ Core ML supports a variety of machine learning models, including neural networks
 
 For this Demo I used the SqueezeNet model dowloaded from [here](https://developer.apple.com/machine-learning/models/)
 
-## Please find the orignal source code of model [here](https://github.com/DeepScale/SqueezeNet)
+Please find the orignal source code of model [here](https://github.com/DeepScale/SqueezeNet)
+
+the app was fully made in swift
 
 <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
 
