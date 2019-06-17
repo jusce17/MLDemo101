@@ -5,9 +5,9 @@
 
 # Core ML Models
 
-Core ML supports a variety of machine learning models, including neural networks, tree ensembles, support vector machines, and generalized linear models. Core ML requires the Core ML model format (models with a .mlmodel file extension). [learn more] (https://developer.apple.com/machine-learning/core-ml/)
+Core ML supports a variety of machine learning models, including neural networks, tree ensembles, support vector machines, and generalized linear models. Core ML requires the Core ML model format (models with a .mlmodel file extension). [learn more](https://developer.apple.com/machine-learning/core-ml/)
 
-For this Demo I used the SqueezeNet model dowloaded from [here] (https://developer.apple.com/machine-learning/models/)
+For this Demo I used the SqueezeNet model dowloaded from [here](https://developer.apple.com/machine-learning/models/)
 
 ## Please find the orignal source code of model [here](https://github.com/DeepScale/SqueezeNet)
 
